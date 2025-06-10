@@ -1,24 +1,50 @@
-# Adatvédelmi Irányelvek
+# Adatvédelmi irányelvek
 
-Ez az alkalmazás (XVI. kerület - Közszolgálati hibabejelentő) elkötelezett a felhasználók adatainak védelme mellett.
+Ez az alkalmazás (a továbbiakban: „alkalmazás”) a Budapest XVI. kerület lakóinak készült, hogy egyszerűen és gyorsan bejelenthessék a közterületi problémákat. Az adatvédelem kiemelten fontos számunkra, ezért elkötelezettek vagyunk a felhasználók személyes adatainak védelme mellett.
 
-## Milyen adatokat gyűjtünk?
+---
 
-- Fotók, amelyeket a felhasználók a hibabejelentésekhez feltöltenek vagy készítenek.
-- Helyadatok (GPS koordináták), amelyek segítik a bejelentés pontos helyének meghatározását.
-- Felhasználói név és e-mail cím azonosítás céljából.
+## ⚠️ Fontos nyilatkozat
 
-## Mire használjuk az adatokat?
+Ez az alkalmazás egy **pilot projekt** keretében készült, és **jelenleg nem áll hivatalos kapcsolatban sem a Budapest XVI. kerületi Önkormányzattal, sem más állami vagy önkormányzati szervvel**.  
+A bejelentések **nem kerülnek automatikusan továbbításra** az illetékes hatóságokhoz.  
+Az alkalmazás célja a lakossági igények felmérése és egy esetleges jövőbeli együttműködés előkészítése.
 
-- A bejelentések feldolgozására és nyomon követésére.
+---
 
-## Az adatok védelme
+## Gyűjtött adatok
 
-- Az adatokat titkosított csatornán továbbítjuk.
-- Nem osztjuk meg személyes adatokat harmadik féllel.
+Az alkalmazás kizárólag a bejelentés feldolgozásához szükséges adatokat gyűjti:
 
-## Felhasználói jogok
+- Kép a bejelentett problémáról
+- Helyadat (GPS koordináta vagy manuálisan megadott pont)
+- A felhasználó neve (amennyiben megadja)
+- E-mail cím (a visszajelzéshez)
 
-- A helyadatok megosztása nem kötelező, a felhasználó dönthet róla.
+## Az adatok felhasználása
 
-Ha bármilyen kérdésed vagy észrevételed van az adatkezeléssel kapcsolatban, kérjük, vedd fel velünk a kapcsolatot az alkalmazásban megadott elérhetőségeken.
+A gyűjtött adatokat az alábbi célokra használjuk fel:
+
+- A bejelentés pontos helyének meghatározása
+- Kommunikáció a bejelentővel
+- A bejelentések dokumentálása és nyilvántartása
+
+Az adatokat **nem továbbítjuk harmadik félnek**, és **nem használjuk kereskedelmi célokra**.
+
+## Adattárolás és biztonság
+
+Az adatok titkosított kapcsolaton (HTTPS) keresztül kerülnek továbbításra.  
+Minden adatot biztonságosan tárolunk, és a hatályos adatvédelmi előírásokkal (pl. GDPR) összhangban kezelünk.
+
+## Harmadik fél szolgáltatások
+
+Az alkalmazás **nem** használ hirdetési vagy analitikai szolgáltatásokat, nem történik nyomon követés.
+
+## Kapcsolat
+
+Ha bármilyen kérdése merül fel az adatkezeléssel kapcsolatban, kérjük, vegye fel velünk a kapcsolatot az alábbi e-mail címen:  
+**farkas.mate77@gmail.com**
+
+---
+
+*Utolsó frissítés: 2025. június 10.*
