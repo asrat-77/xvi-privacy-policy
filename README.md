@@ -14,48 +14,49 @@ Az alkalmazás célja a lakossági igények felmérése és egy esetleges jövő
 
 ## Gyűjtött adatok
 
-Az alkalmazás az alábbi személyes adatokat gyűjti és kezeli:
+Az alkalmazás a bejelentési űrlap kitöltése során az alábbi adatokat kéri megadásra, melyek **a bejelentés elküldéséhez kötelezőek**:
 
-- **Felhasználónév** – kötelező a regisztrációhoz  
-- **E-mail cím** – kötelező a regisztrációhoz és az esetleges kapcsolattartáshoz  
-- **Helyadat** – a bejelentés helyének meghatározásához (GPS vagy manuális megadás)  
-- **Fotó** – a bejelentett probléma dokumentálásához  
+- **Név** – a bejelentő azonosításához  
+- **E-mail cím** – a visszajelzés és kapcsolattartás céljából  
+- **Helyadat** – a probléma pontos helyének meghatározásához (GPS vagy manuális kiválasztás)  
+- **Fotó** – opcionális, a probléma dokumentálására  
 - **Probléma szöveges leírása**
 
-A regisztráció célja, hogy az alkalmazást csak azonosított felhasználók használhassák, ezzel megelőzve a visszaéléseket és a hamis bejelentéseket.
+Az adatok bekérése azért történik, hogy kiszűrjük a visszaéléseket és a hamis bejelentéseket, valamint lehetőséget biztosítsunk az esetleges kapcsolattartásra.
 
 ---
 
 ## Az adatok felhasználása
 
-A gyűjtött adatokat az alábbi célokra használjuk:
+A gyűjtött adatokat kizárólag az alábbi célokra használjuk fel:
 
-- A felhasználók azonosítása és beléptetése  
-- A bejelentések pontos helyének és tartalmának rögzítése  
-- Szükség esetén kapcsolatfelvétel a bejelentővel  
-- A rendszer visszaélésektől való védelme
+- A bejelentések feldolgozása  
+- Kapcsolattartás a bejelentővel (pl. pontosítás, visszajelzés)  
+- A bejelentések rendszerezése és dokumentálása
 
-Az adatok **nem kerülnek értékesítésre**, és **nem osztjuk meg harmadik féllel** hirdetési vagy kereskedelmi célokra.
+Az adatok **nem kerülnek kereskedelmi célokra felhasználásra**, és **nem kerülnek továbbításra harmadik fél részére**, kivéve ha ezt jogszabály írja elő.
 
 ---
 
 ## Adattárolás és biztonság
 
-Minden adat titkosított kapcsolaton (HTTPS) keresztül kerül továbbításra. A jelszavakat **hash-elve** és biztonságosan tároljuk, nem visszafejthető formában. Az adatkezelés megfelel az **általános adatvédelmi rendelet (GDPR)** követelményeinek.
+Az adatok titkosított kapcsolaton (HTTPS) keresztül kerülnek továbbításra.  
+Azokat biztonságos szerveren tároljuk, és kizárólag a fenti célokra használjuk fel. Az adatkezelés megfelel a hatályos adatvédelmi jogszabályoknak, különösen az **EU GDPR** előírásainak.
 
 ---
 
 ## Harmadik fél szolgáltatások
 
-Az alkalmazás nem használ külső hirdetési vagy analitikai szolgáltatásokat. Nincs külső követőkód, és nem történik adatmegosztás harmadik féllel.
+Az alkalmazás nem használ semmilyen hirdetési vagy analitikai szolgáltatást, nem követi a felhasználói viselkedést, és nem oszt meg adatokat harmadik féllel.
 
 ---
 
 ## Kapcsolat
 
-Ha kérdésed van az adatkezeléssel kapcsolatban, vagy szeretnéd törölni a fiókodat, írj az alábbi e-mail címre:  
+Ha bármilyen kérdésed van az adatkezeléssel kapcsolatban, vagy szeretnéd az adataid törlését kérni, írj az alábbi e-mail címre:  
 **email@example.com**
 
 ---
 
 *Utolsó frissítés: 2025. június 10.*
+
