@@ -56,6 +56,26 @@ Az alkalmazás nem használ semmilyen hirdetési vagy analitikai szolgáltatást
 
 ---
 
+## Adatkezelő
+Az adatkezelő Farkas Máté (magánszemély fejlesztőként). Elérhetősége: farkas.mate77@gmail.com.
+
+---
+
+## Az adatkezelés jogalapja
+Az adatkezelés alapja a felhasználó önkéntes hozzájárulása, amelyet a bejelentési űrlap elküldésével ad meg.
+
+---
+
+## Adattárolás és tárolási időtartam
+A bejelentések adatai nem kerülnek tartós tárolásra. A pilot időszak alatt az adatok kizárólag a felhasználó eszközén tárolódnak, központi adatbázis vagy külső szerver nem használatos.
+
+---
+
+## Felhasználói jogok
+Mivel az adatok kizárólag a felhasználó eszközén tárolódnak, és nem kerülnek továbbításra vagy központi tárolásra, az adatkezelő nem rendelkezik az adatokkal, így nem tudja módosítani vagy törölni azokat. Amennyiben a felhasználó az általa megadott adatokat törölni kívánja, azt az alkalmazás törlésével teheti meg.
+
+---
+
 ## Kapcsolat
 
 Ha bármilyen kérdésed van az adatkezeléssel kapcsolatban, írj az alábbi e-mail címre:  
