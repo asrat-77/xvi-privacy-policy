@@ -14,15 +14,22 @@ Az alkalmazás célja a lakossági igények felmérése és egy esetleges jövő
 
 ## Gyűjtött adatok
 
-Az alkalmazás a bejelentési űrlap kitöltése során az alábbi adatokat kéri megadásra, melyek **a bejelentés elküldéséhez kötelezőek**:
+Az alkalmazás a bejelentési űrlapon az alábbi adatokat kéri megadásra, melyek **a bejelentés elküldéséhez kötelezőek**:
 
-- **Név** – a bejelentő azonosításához  
-- **E-mail cím** – a visszajelzés és kapcsolattartás céljából  
+- **Név** és **e-mail cím** – együttesen szükségesek a hamis bejelentések csökkentése és az esetleges kapcsolattartási lehetőség biztosítása érdekében  
 - **Helyadat** – a probléma pontos helyének meghatározásához (GPS vagy manuális kiválasztás)  
-- **Fotó** – opcionális, a probléma dokumentálására  
-- **Probléma szöveges leírása**
+- **Fotó** – a probléma dokumentálásához  
 
-Az adatok bekérése azért történik, hogy kiszűrjük a visszaéléseket és a hamis bejelentéseket, valamint lehetőséget biztosítsunk az esetleges kapcsolattartásra.
+A **szöveges leírás mező kitöltése ügytípusonként eltérő lehet**, az adott probléma jellegétől függően.
+
+---
+
+### Bejelentési típusok:
+
+- **Kátyúhiba:** úthibák, megsüllyedt burkolat, balesetveszélyes útszakaszok  
+- **Közvilágítás hiba:** meghibásodott vagy nem működő lámpatestek  
+- **Illegális szemét:** engedély nélküli hulladéklerakás, elhagyott szeméthalom
+
 
 ---
 
@@ -31,10 +38,9 @@ Az adatok bekérése azért történik, hogy kiszűrjük a visszaéléseket és 
 A gyűjtött adatokat kizárólag az alábbi célokra használjuk fel:
 
 - A bejelentések feldolgozása  
-- Kapcsolattartás a bejelentővel (pl. pontosítás, visszajelzés)  
 - A bejelentések rendszerezése és dokumentálása
 
-Az adatok **nem kerülnek kereskedelmi célokra felhasználásra**, és **nem kerülnek továbbításra harmadik fél részére**, kivéve ha ezt jogszabály írja elő.
+Az adatok **nem kerülnek kereskedelmi célokra felhasználásra**, és **nem kerülnek továbbításra harmadik fél részére**.
 
 ---
 
