@@ -58,8 +58,8 @@ Az alkalmazás nem használ semmilyen hirdetési vagy analitikai szolgáltatást
 
 ## Kapcsolat
 
-Ha bármilyen kérdésed van az adatkezeléssel kapcsolatban, vagy szeretnéd az adataid törlését kérni, írj az alábbi e-mail címre:  
-**email@example.com**
+Ha bármilyen kérdésed van az adatkezeléssel kapcsolatban, írj az alábbi e-mail címre:  
+**farkas.mate77@gmail.com**
 
 ---
 
