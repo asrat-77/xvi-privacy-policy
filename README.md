@@ -18,7 +18,6 @@ Az alkalmazás az alábbi személyes adatokat gyűjti és kezeli:
 
 - **Felhasználónév** – kötelező a regisztrációhoz  
 - **E-mail cím** – kötelező a regisztrációhoz és az esetleges kapcsolattartáshoz  
-- **Jelszó** – titkosítva kerül tárolásra, kizárólag az azonosításhoz  
 - **Helyadat** – a bejelentés helyének meghatározásához (GPS vagy manuális megadás)  
 - **Fotó** – a bejelentett probléma dokumentálásához  
 - **Probléma szöveges leírása**
