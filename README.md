@@ -14,36 +14,48 @@ Az alkalmazás célja a lakossági igények felmérése és egy esetleges jövő
 
 ## Gyűjtött adatok
 
-Az alkalmazás kizárólag a bejelentés feldolgozásához szükséges adatokat gyűjti:
+Az alkalmazás az alábbi személyes adatokat gyűjti és kezeli:
 
-- Kép a bejelentett problémáról
-- Helyadat (GPS koordináta vagy manuálisan megadott pont)
-- A felhasználó neve (amennyiben megadja)
-- E-mail cím (a visszajelzéshez)
+- **Felhasználónév** – kötelező a regisztrációhoz  
+- **E-mail cím** – kötelező a regisztrációhoz és az esetleges kapcsolattartáshoz  
+- **Jelszó** – titkosítva kerül tárolásra, kizárólag az azonosításhoz  
+- **Helyadat** – a bejelentés helyének meghatározásához (GPS vagy manuális megadás)  
+- **Fotó** – a bejelentett probléma dokumentálásához  
+- **Probléma szöveges leírása**
+
+A regisztráció célja, hogy az alkalmazást csak azonosított felhasználók használhassák, ezzel megelőzve a visszaéléseket és a hamis bejelentéseket.
+
+---
 
 ## Az adatok felhasználása
 
-A gyűjtött adatokat az alábbi célokra használjuk fel:
+A gyűjtött adatokat az alábbi célokra használjuk:
 
-- A bejelentés pontos helyének meghatározása
-- Kommunikáció a bejelentővel
-- A bejelentések dokumentálása és nyilvántartása
+- A felhasználók azonosítása és beléptetése  
+- A bejelentések pontos helyének és tartalmának rögzítése  
+- Szükség esetén kapcsolatfelvétel a bejelentővel  
+- A rendszer visszaélésektől való védelme
 
-Az adatokat **nem továbbítjuk harmadik félnek**, és **nem használjuk kereskedelmi célokra**.
+Az adatok **nem kerülnek értékesítésre**, és **nem osztjuk meg harmadik féllel** hirdetési vagy kereskedelmi célokra.
+
+---
 
 ## Adattárolás és biztonság
 
-Az adatok titkosított kapcsolaton (HTTPS) keresztül kerülnek továbbításra.  
-Minden adatot biztonságosan tárolunk, és a hatályos adatvédelmi előírásokkal (pl. GDPR) összhangban kezelünk.
+Minden adat titkosított kapcsolaton (HTTPS) keresztül kerül továbbításra. A jelszavakat **hash-elve** és biztonságosan tároljuk, nem visszafejthető formában. Az adatkezelés megfelel az **általános adatvédelmi rendelet (GDPR)** követelményeinek.
+
+---
 
 ## Harmadik fél szolgáltatások
 
-Az alkalmazás **nem** használ hirdetési vagy analitikai szolgáltatásokat, nem történik nyomon követés.
+Az alkalmazás nem használ külső hirdetési vagy analitikai szolgáltatásokat. Nincs külső követőkód, és nem történik adatmegosztás harmadik féllel.
+
+---
 
 ## Kapcsolat
 
-Ha bármilyen kérdése merül fel az adatkezeléssel kapcsolatban, kérjük, vegye fel velünk a kapcsolatot az alábbi e-mail címen:  
-**farkas.mate77@gmail.com**
+Ha kérdésed van az adatkezeléssel kapcsolatban, vagy szeretnéd törölni a fiókodat, írj az alábbi e-mail címre:  
+**email@example.com**
 
 ---
 
