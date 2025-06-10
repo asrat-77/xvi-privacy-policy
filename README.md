@@ -46,8 +46,7 @@ Az adatok **nem kerülnek kereskedelmi célokra felhasználásra**, és **nem ke
 
 ## Adattárolás és biztonság
 
-Az adatok titkosított kapcsolaton (HTTPS) keresztül kerülnek továbbításra.  
-Azokat biztonságos szerveren tároljuk, és kizárólag a fenti célokra használjuk fel. Az adatkezelés megfelel a hatályos adatvédelmi jogszabályoknak, különösen az **EU GDPR** előírásainak.
+A pilot fázis során a bejelentések adatai nem kerülnek továbbításra semmilyen külső szerverre, és nem tároljuk azokat központi adatbázisban. Az adatok kizárólag a felhasználó eszközén kerülnek feldolgozásra.
 
 ---
 
