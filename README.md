@@ -61,7 +61,12 @@ A bejelentések adatai nem kerülnek tartós tárolásra. A pilot időszak alatt
 
 
 ## Felhasználói jogok
-Mivel az adatok kizárólag a felhasználó eszközén tárolódnak, és nem kerülnek továbbításra vagy központi tárolásra, az adatkezelő nem rendelkezik az adatokkal, így nem tudja módosítani vagy törölni azokat. Amennyiben a felhasználó az általa megadott adatokat törölni kívánja, azt az alkalmazás törlésével teheti meg.
+
+Mivel az alkalmazás során gyűjtött adatok kizárólag a felhasználó eszközén tárolódnak, az adatkezelő **nem fér hozzá ezekhez**, így nem tudja azokat módosítani, törölni vagy másolatot készíteni róluk.
+
+Ennek következtében a **GDPR szerinti hozzáférési, helyesbítési, törlési, korlátozási vagy tiltakozási jogok gyakorlása nem értelmezhető** az adatkezelőn keresztül.
+
+Amennyiben a felhasználó törölni kívánja az adatokat, azt **az alkalmazás eltávolításával** teheti meg.
 
 
 ## Kapcsolat
