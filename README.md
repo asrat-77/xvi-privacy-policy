@@ -50,7 +50,10 @@ Az adatkezelő Farkas Máté (magánszemély fejlesztőként). Elérhetősége: 
 
 
 ## Az adatkezelés jogalapja
-Az adatkezelés alapja a felhasználó önkéntes hozzájárulása, amelyet a bejelentési űrlap elküldésével ad meg.
+
+Az adatkezelés alapja a felhasználó **önkéntes hozzájárulása**, amelyet a bejelentési űrlap elküldésével ad meg.
+
+Jogalap: **Az Európai Parlament és a Tanács (EU) 2016/679 rendelete (GDPR) 6. cikk (1) bekezdés a) pontja** – az érintett hozzájárulása.
 
 
 ## Adattárolás és tárolási időtartam
