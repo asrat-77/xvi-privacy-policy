@@ -78,7 +78,7 @@ Mivel az adatok kizárólag a felhasználó eszközén tárolódnak, és nem ker
 
 ## Kapcsolat
 
-Ha bármilyen kérdésed van az adatkezeléssel kapcsolatban, írj az alábbi e-mail címre:  
+Amennyiben bármilyen kérdése merül fel az adatkezeléssel kapcsolatban, kérjük, vegye fel a kapcsolatot az adatkezelővel az alábbi e-mail címen:  
 **farkas.mate77@gmail.com**
 
 ---
