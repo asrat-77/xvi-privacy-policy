@@ -37,10 +37,10 @@ A **szöveges leírás mező kitöltése ügytípusonként eltérő lehet**, az 
 
 A gyűjtött adatokat kizárólag az alábbi célokra használjuk fel:
 
-- A bejelentések feldolgozása  
-- A bejelentések rendszerezése és dokumentálása
+- A bejelentések feldolgozása a lakossági igények feltérképezése érdekében
+- A bejelentések rendszerezése és dokumentálása a pilot projekt értékeléséhez és egy esetleges jövőbeli önkormányzati együttműködés előkészítéséhez
 
-Az adatok **nem kerülnek kereskedelmi célokra felhasználásra**, és **nem kerülnek továbbításra harmadik fél részére**.
+Az adatok nem kerülnek kereskedelmi célokra felhasználásra, és nem kerülnek továbbításra harmadik fél részére.
 
 ---
 
